@@ -1,0 +1,32 @@
+.web-details {
+  margin-top: 3rem;
+  padding: 5rem;
+}
+
+.web-details h1 {
+  color: rgb(1, 214, 214);
+  text-align: center;
+  padding: 0.8 rem;
+  border: solid #000000;
+}
+
+.web-details h3 {
+  color: brown;
+}
+
+.web-details .btn {
+  padding: 0 5rem;
+}
+
+:hover .btn {
+  color: #ffffff;
+}
+@media (max-width: 575px) {
+  .web-details {
+    padding: 2rem;
+  }
+}
+
+.tale {
+  margin-top: 5rem;
+}
